@@ -1,0 +1,7 @@
+[user]
+	email = paddy.mahoney@gmail.com
+	name = Patrick Mahoney
+[push]
+	default = simple
+[core]
+	editor = vim
